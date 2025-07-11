@@ -1,6 +1,6 @@
 🏢 I'm currently working at MergeStack as a Senior SQA Engineer.
 
-⚙️ I use daily: JavaScrit, Cypress, Rainforest, AWS, JIRA.
+⚙️ I use daily: JavaScript, Cypress, Rainforest, AWS, JIRA. Github, Github Actions, Circle CI
 
 💅 Expertise: Automation tools, Quality Assurance, Project Management, Communication.
 
